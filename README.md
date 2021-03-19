@@ -1,4 +1,4 @@
-# ABOUT THIS APP
+# Todo List - About This App
 
 This project is built for further advance my skills with React. A simple todo list with elegance.
 
