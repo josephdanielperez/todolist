@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# ABOUT THIS APP
+
+This project is built for further advance my skills with React. A simple todo list with elegance.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
