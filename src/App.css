@@ -130,6 +130,10 @@ h1 {
   );
 }
 
+.todo-text {
+  cursor: pointer;
+}
+
 .icons {
   display: flex;
   align-items: center;
