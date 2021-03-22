@@ -70,14 +70,6 @@ h1 {
   text-transform: capitalize;
 }
 
-.todo-button:hover {
-  background: linear-gradient(
-    90deg,
-    rgba(93, 12, 255, 1) 100%,
-    rgba(155, 0, 250, 1) 0%
-  );
-}
-
 .todo-input.edit {
   border: 2px solid #149fff;
 }
